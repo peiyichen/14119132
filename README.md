@@ -36,3 +36,8 @@ class="col-md-分欄位加至 `<h1>`上行
 改按鈕:
 `<button type="button" class="btn btn-lg(xs.sm.lg大小)  btn-顏色>`  
 顏色:default白色.primary藍色.danger紅色.success綠色.info淺藍.warning黃色
+navbar-brand靠左.放大
+`<a class="navbar-brand" href="/">`......`</a>`
+`<div class=navbar navbar-default navbar-static-top">`固定.無圓角
+`<div class=navbar navbar-default navbar-fixed-top">`無固定.無圓角
+若用fixed不蓋到:到main.css打{body padding-top:70px
