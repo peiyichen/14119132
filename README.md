@@ -13,3 +13,15 @@
 上面的 `<div>`內打"class=container"
 置中.class="container-fluid"佔滿頁面
 *皆要有 `</div>`結尾.有幾個 `<div>`結尾就有幾個
+class="col-md-分欄位加至 `<h1>`上行
+* `<img src="圖片網址" style=style"width:100%>`
+*class="row" (可加可不加)  加間隔 在分欄位後打col-md-offset-1(左右各縮1)
+*class="row text-center"置中
+改字體:
+另開一個css(New File)打mail.css在ctrl+s儲存
+打body{font-family="......";在分欄位那行裡打features
+凸顯字在內文 `<P class="lead">`圖示
+ `<i class="......">` `</i>`
+複製 `<title>`下面那行.把後面的bootstrap改成mail
+改圖大小顏色:
+在mail.css打featupes.glyphicon font-size:32px;color:red;
