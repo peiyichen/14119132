@@ -25,3 +25,14 @@ class="col-md-分欄位加至 `<h1>`上行
 複製 `<title>`下面那行.把後面的bootstrap改成mail
 改圖大小顏色:
 在mail.css打featupes.glyphicon font-size:32px;color:red;
+做頁腳:
+ `<footer class='container-fluid">`到main.css打footer{
+頁腳化分四欄對齊 `<h4>`Links `</h4>`
+連結 `<ul class="list-unstyled">`
+     `<li>` `<a href="網址">home</a></li>`
+     `<li>news</li>`
+     `</ul>`
+`</div>`
+改按鈕:
+`<button type="button" class="btn btn-lg(xs.sm.lg大小)  btn-顏色>`  
+顏色:default白色.primary藍色.danger紅色.success綠色.info淺藍.warning黃色
