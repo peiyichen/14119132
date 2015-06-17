@@ -41,3 +41,10 @@ navbar-brand靠左.放大
 `<div class=navbar navbar-default navbar-static-top">`固定.無圓角
 `<div class=navbar navbar-default navbar-fixed-top">`無固定.無圓角
 若用fixed不蓋到:到main.css打{body padding-top:70px
+JavaScript導覽列
+在`<ul class="nav.....navbar-collapse">`應用在手機上將導覽列收起
+`<button type="button">`Toggle navigation`</button>`
+=`<span class="sr-only">`......`</span>`
+`<button type='button' class='navbar-toggle'
+         date-toggle='collapse
+         date-target='.navbar-collapse'>`  
