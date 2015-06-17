@@ -4,8 +4,8 @@
 打link按Tab
 至css bootstrap下載把3個資料夾(css.fonts.js)拉到剛新增的資料夾
 在至link那行後面打"css./bootstrap.css"
-在中間打<h1>.<p>.<h2>.<p>.<button>.<button>.<h3>.<p>
-在下面的<body>上面打 `<script src="js/bootstrap.js">`
+在中間打`<h1>`.`<p>`.`<h2>`.`<p>`.`<button>`.`<button>`.`<h3>`.`<p>`
+在下面的`<body>`上面打 `<script src="js/bootstrap.js">`
 到bootstrap網站按getting start右邊Basic template
 複製 `<!--JQuery(necessary for Bootstrap's......)>`和下面的 `<script src="......>`
 在上面的body下面打 `<div>`
