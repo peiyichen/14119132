@@ -45,6 +45,7 @@ JavaScript導覽列
 在`<ul class="nav.....navbar-collapse">`應用在手機上將導覽列收起
 `<button type="button">`Toggle navigation`</button>`
 =`<span class="sr-only">`......`</span>`
-`<button type='button' class='navbar-toggle'
-         date-toggle='collapse
-         date-target='.navbar-collapse'>`  
+`<button type='button' class='navbar-toggle'  date-toggle='collapse  date-target='.navbar-collapse'>`  
+`</button>`   會連結至
+`<ul class='nav navbar-nav navbar-right collapse navbar-collapse'>`
+`<div class="navbar-header">`在小畫面中滿版
